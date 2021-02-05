@@ -4,6 +4,6 @@ public class lider {
 
     public void comitPrimero(){
 
-        System.out.println("1 commit");
+        System.out.println("2 commit");
     }
 }
